@@ -11,6 +11,10 @@
     {
       "content": "always remember to run the server",
       "id": 3
+    },
+    {
+      "content": "reset function was a tricky one",
+      "id": 4
     }
   ],
   "persons": [
@@ -28,6 +32,11 @@
       "name": "Rouissi",
       "number": "000-0000000",
       "id": 3
+    },
+    {
+      "name": "Yaro",
+      "number": "000-00000001",
+      "id": 4
     }
   ]
 }
