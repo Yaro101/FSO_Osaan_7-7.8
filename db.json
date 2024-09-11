@@ -15,6 +15,10 @@
     {
       "content": "reset function was a tricky one",
       "id": 4
+    },
+    {
+      "content": "A test after esLint error fix",
+      "id": 5
     }
   ],
   "persons": [
@@ -37,6 +41,11 @@
       "name": "Yaro",
       "number": "000-00000001",
       "id": 4
+    },
+    {
+      "name": "Timi",
+      "number": "000-0000002",
+      "id": 5
     }
   ]
 }
